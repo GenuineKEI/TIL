@@ -1,2 +1,2 @@
-4/22
-Git：はじめてのGitとGitHub (udemy)
+4/22 Git：はじめてのGitとGitHub (udemy)
+4/23 基礎理論① (基本情報)
